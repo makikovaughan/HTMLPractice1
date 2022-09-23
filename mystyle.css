@@ -1,0 +1,19 @@
+body{
+  background: #fffbf4;
+  text-align: center;
+}
+h1{
+    font-size: 500%;
+    font-family: 'Tangerine', serif;
+    text-shadow: 4px 4px 4px skyblue;
+}
+table, th,td{
+  position: center;
+    border: 1px solid black;
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: 150%;
+    border-collapse: collapse;
+    text-align:center;
+    color: skyblue
+}
