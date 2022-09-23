@@ -1,7 +1,9 @@
+
 body{
   background: #fffbf4;
   text-align: center;
 }
+
 h1{
     font-size: 500%;
     font-family: 'Tangerine', serif;
@@ -14,6 +16,12 @@ table, th,td{
     margin-right: auto;
     font-size: 150%;
     border-collapse: collapse;
-    text-align:center;
     color: skyblue
+}
+table{
+  width:90%;
+}
+th{
+  background: skyblue;  
+  color: black;
 }
